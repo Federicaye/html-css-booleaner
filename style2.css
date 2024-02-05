@@ -39,3 +39,7 @@ table {
     margin: 1%;
 }
 
+.evidenziato {
+    background-color: yellow;
+}
+
