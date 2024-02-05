@@ -1,0 +1,40 @@
+
+
+article {
+    width: 85%;
+    margin: auto;
+    
+}
+
+
+header {
+    background-image: url(img/pattern.png);
+    background-color: blue;
+    margin: 0;
+
+}
+
+.logo {
+    width: 10%;
+    padding-top: 3%;
+}
+
+thead {
+    background-color: rgb(45, 187, 187);
+    text-align: left;
+    color: whitesmoke;
+}
+
+.blu {
+    background-color: aquamarine;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.acapo {
+    display: block;
+    margin: 1%;
+}
+
