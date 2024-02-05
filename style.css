@@ -18,8 +18,9 @@ header {
 }
 
 thead {
-    background-color: aqua;
+    background-color: rgb(45, 187, 187);
     text-align: left;
+    color: whitesmoke;
 }
 
 .blu {
@@ -32,4 +33,6 @@ table {
 
 .acapo {
     display: block;
+    margin: 1%;
 }
+
