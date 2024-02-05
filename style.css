@@ -1,3 +1,5 @@
+
+
 body {
     
 }
@@ -18,8 +20,13 @@ header {
 thead {
     background-color: aqua;
     text-align: left;
+    
 }
 
 .blu {
     background-color: aquamarine;
+}
+
+table {
+    border-collapse: collapse;
 }
